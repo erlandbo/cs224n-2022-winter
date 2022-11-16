@@ -1,0 +1,11 @@
+examples/glove
+*.zip
+*.idea
+*.vscode
+**/__pycache__/
+a2/Written
+*.npy
+a3/Written
+a4/model.bin
+a4/model.bin.optim
+
